@@ -46,13 +46,8 @@ User [camenduru](https://github.com/camenduru) was kind enough to provide a Cola
 
 The repository contains submodules, thus please check it out with 
 ```shell
-# SSH
-git clone git@github.com:graphdeco-inria/gaussian-splatting.git --recursive
-```
-or
-```shell
 # HTTPS
-git clone https://github.com/graphdeco-inria/gaussian-splatting --recursive
+git clone https://github.com/Xzzit/gaussian-splatting.git --recursive
 ```
 
 ## Overview
