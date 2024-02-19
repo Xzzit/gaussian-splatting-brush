@@ -1,9 +1,0 @@
-[submodule "submodules/simple-knn"]
-	path = submodules/simple-knn
-	url = https://gitlab.inria.fr/bkerbl/simple-knn.git
-[submodule "submodules/diff-gaussian-brush"]
-	path = submodules/diff-gaussian-brush
-	url = https://github.com/Xzzit/diff-gaussian-brush
-[submodule "submodules/SIBR_viewers"]
-	path = submodules/SIBR_viewers
-	url = https://gitlab.inria.fr/sibr/sibr_core.git
